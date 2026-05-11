@@ -79,21 +79,6 @@ pip install -r requirements.txt
 
 Each notebook can be run independently while maintaining consistent data structures. Start with `decode_innereye.ipynb` for initial data processing, then proceed to downstream analysis notebooks based on your research questions.
 
-## Citation
-
-If you use this code or data in your research, please cite:
-
-```bibtex
-@software{asfv_spatialomics_2025,
-  author       = {Your Name},
-  title        = {ASFV Spatial Omics Analysis},
-  year         = 2025,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.20121053},
-  url          = {https://doi.org/10.5281/zenodo.20121053}
-}
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
